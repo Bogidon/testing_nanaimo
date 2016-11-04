@@ -1,7 +1,4 @@
 require 'xcodeproj'
-require 'pry'
-
-# binding.pry
 
 puts "Xcodeproj version"
 puts Gem.loaded_specs["xcodeproj"].version
